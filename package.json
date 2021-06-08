@@ -1,0 +1,20 @@
+{
+  "name": "vue-data-table",
+  "version": "1.0.0",
+  "description": "VDT is yet another datatable module. Sick of complicated datatable libraries, so I wrote my own :)",
+  "homepage": "https:://",
+  "engines": {
+    "npm": "6.10.0",
+    "node": "10.14.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "jest",
+    "lint": "eslint ./server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
