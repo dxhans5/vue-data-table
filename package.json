@@ -2,7 +2,7 @@
   "name": "vue-data-table",
   "version": "1.0.0",
   "description": "VDT is yet another datatable module. Sick of complicated datatable libraries, so I wrote my own :)",
-  "homepage": "https:://",
+  "homepage": "https://github.com/dxhans5/vue-data-table",
   "engines": {
     "npm": "6.10.0",
     "node": "10.14.1"
@@ -14,7 +14,22 @@
     "test": "jest",
     "lint": "eslint ./server"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "vue",
+    "data tables",
+    "table",
+    "vuejs",
+    "vuetify"
+  ],
+  "author": "Donny Hansen (Virus)",
+  "license": "MIT-Modern-Variant",
+  "repository": {
+    "type": "git",
+    "url": "dxhans5/vue-data-table"
+  },
+  "bugs": {
+    "url": "https://github.com/dxhans5/vue-data-table.git",
+    "email": "dxhans5@gmail.com"
+  },
+  "dependencies": {}
 }
